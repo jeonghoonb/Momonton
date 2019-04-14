@@ -3,7 +3,7 @@ Momonton
 
 ### About
 * Toy Project
-* Âü°í : https://www.youtube.com/watch?v=wUHncG3VwPw&list=PL7jH19IHhOLM8YwJMTa3UkXZN-LldYnyK
+* Reference : https://www.youtube.com/watch?v=wUHncG3VwPw&list=PL7jH19IHhOLM8YwJMTa3UkXZN-LldYnyK
 
 ### Features
 * Clock
