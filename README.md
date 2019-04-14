@@ -1,18 +1,17 @@
-# Momonton
+Momonton
+========
 
-_ _ _
-
+### About
+* Toy Project
+* Âü°í : https://www.youtube.com/watch?v=wUHncG3VwPw&list=PL7jH19IHhOLM8YwJMTa3UkXZN-LldYnyK
 
 ### Features
-
-_ _ _
-- Clock
-- To Do List
-- Weather
-- Daily Photo
-- Offline Support
+* Clock
+* To Do List
+* Weather
+* Daily Photo
+* Offline Support
 
 ### Try it out
 
-_ _ _
-https://bang5027.github.io/Momonton
+https://jeonghoonb.github.io/Momonton
